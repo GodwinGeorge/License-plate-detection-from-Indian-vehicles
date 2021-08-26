@@ -1,0 +1,2 @@
+# License-plate-detection-from-Indian-vehicles
+There are lots of vehicles on Indian roads. It's a tedious task to recognize the number plates manually. In this project, we recognize them with the help of computer vision. There are lots of methods out. but if you want a good solution with fewer model complexity or for implementation in any IoT device. Then you're in the right place. We will build a model with less than 250k parameters to detect license plate.
